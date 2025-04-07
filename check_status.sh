@@ -1,2 +1,2 @@
 #!/bin/bash
-systemctl status nginx
+echo "Hello from Jenkins build!" > build_output.txt
